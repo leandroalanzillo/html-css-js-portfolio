@@ -25,7 +25,7 @@ Site de portfólio pessoal desenvolvido com **HTML**, **CSS** e **JavaScript pur
 ## 🔗 Acesse
 
 <div align="center">
-  <a href="https://leandroalanzillo.github.io/html-css-js-portifolio">
+  <a href="https://leandroalanzillo.github.io/html-css-js-portfolio/">
     <img src="https://img.shields.io/badge/Ver%20Portfólio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/leandroalanzillo/">
