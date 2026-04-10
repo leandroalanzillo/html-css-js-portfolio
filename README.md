@@ -45,4 +45,4 @@ Site de portfólio pessoal desenvolvido com **HTML**, **CSS** e **JavaScript pur
 
 ---
 
-<p align="center">Feito com 💙 por <strong>Leandro Lanzillo</strong></p>
+<p align="center">Feito por <strong>Leandro Lanzillo</strong></p>
