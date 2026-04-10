@@ -6,29 +6,19 @@
 
 ---
 
-## 🚀 Sobre o Projeto
+## Sobre o Projeto
 
 Site de portfólio pessoal desenvolvido com **HTML**, **CSS** e **JavaScript puro**, apresentando minhas habilidades, experiências e projetos como Cientista de Dados.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
-
----
-
-## 📌 Seções do Site
-
-- 👤 **Perfil** — Apresentação e links sociais
-- 🧠 **Sobre mim** — Experiência e formação
-- 💼 **Experiência** — Habilidades em Dados e Front End
-- 🗃️ **Projetos** — Projetos desenvolvidos
-- 📬 **Contato** — E-mail e LinkedIn
 
 ---
 
