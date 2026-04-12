@@ -1,4 +1,4 @@
-<h1 align="center">🗂️ Portfólio Pessoal — Leandro Lanzillo</h1>
+<h1 align="center">🗂️ Site Portfólio Pessoal </h1>
 
 ---
 
