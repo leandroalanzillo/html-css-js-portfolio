@@ -28,7 +28,3 @@ Site de portfólio pessoal desenvolvido com **HTML**, **CSS** e **JavaScript pur
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
----
-
-<p align="center">Feito por <strong>Leandro Lanzillo</strong></p>
