@@ -1,8 +1,4 @@
-<h1 align="center">🗂️ Portfólio Pessoal — Leandro Lanzillo</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Cientista+de+Dados;Apaixonado+por+dados+e+insights;Transformando+dados+em+decisões" alt="Typing SVG" />
-</p>
+<h1 align="center">🗂️ Site Portfólio Pessoal </h1>
 
 ---
 
@@ -15,14 +11,14 @@ Site de portfólio pessoal desenvolvido com **HTML**, **CSS** e **JavaScript pur
 ## Tecnologias Utilizadas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
 ---
 
-## 🔗 Acesse
+## Acesse
 
 <div align="center">
   <a href="https://leandroalanzillo.github.io/html-css-js-portfolio/">
@@ -32,7 +28,3 @@ Site de portfólio pessoal desenvolvido com **HTML**, **CSS** e **JavaScript pur
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
----
-
-<p align="center">Feito por <strong>Leandro Lanzillo</strong></p>
